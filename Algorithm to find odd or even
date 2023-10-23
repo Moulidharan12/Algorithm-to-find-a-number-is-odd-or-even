@@ -1,0 +1,5 @@
+Step 1:Start
+Step 2:Read a number
+Step 3:if number%2==0 then the number is even
+Step 4:else,the number is odd
+Step 5:Stop
